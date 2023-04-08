@@ -3,3 +3,5 @@
 
 #Estas alteracoes foram feitas após a criação da branch nova
 # Testes de conteúdos para verificar comportamento
+
+#adição de linhas via edição no Git
